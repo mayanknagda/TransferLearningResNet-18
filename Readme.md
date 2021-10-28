@@ -1,4 +1,4 @@
-# Pretrained Transformers Test Task
+# Pretrained ResNet-18
 
 ## Install the env files through conda using requirements.yml (conda env create --file requirements.yml)
 
