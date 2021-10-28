@@ -1,4 +1,3 @@
-## This is a test task solution for the project "Pretrained Transformers"
 ## ML Pipeline
 # collect data
 # process data
